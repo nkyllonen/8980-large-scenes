@@ -27,6 +27,7 @@ $ ./engine <folder containing main.lua> Debug
 $ ./engine FrustumCulling/ Debug
 ```
 [![final submission gif](images/fruscul.gif)](https://drive.google.com/file/d/19XKEfIdugdSn76YNc4uFzIYXYOcTjahH/view?usp=sharing)
+_Click gif to go to the full video._
 
 ## Resources
 Low poly tree obj package: [TurboSquid link](https://www.turbosquid.com/3d-models/blender-carrot-crystal-oak-tree-3d-model-1189852)
@@ -59,6 +60,7 @@ Low poly tree obj package: [TurboSquid link](https://www.turbosquid.com/3d-model
 - 1c: This video showcases our dynamic camera. By using the left/right arrow keys, you are able to rotate the camera to the left/right respectively. By using the up/down arrow keys, you are able to move the camera forward/backward respectively.
 
 [![Dynamic camera gif](images/dyncam.gif)](https://drive.google.com/file/d/1ZdrrtIgAiWb35ReJ9b_xjar0VDjuLQ5L/view?usp=sharing)
+_Click gif to go to the full video._
 
 - 1d: This is our `Problem1` scene which contains 100 small oak tree models. As shown in the text box in the upper left hand corner, which so many triangles to render, the FPS dropped from 30 to single digits.
 
